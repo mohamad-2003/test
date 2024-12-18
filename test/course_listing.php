@@ -307,6 +307,7 @@ $courses = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
     <link href="css/style.css" rel="stylesheet" />
     <style>
+        /*hhhhhhhhhhh*/
      .course-card img {
       width: 100%;
       height: 300px;
